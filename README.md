@@ -1,2 +1,3 @@
-# bah.exe
-1v1
+# Entendendo as bases do CRUD
+
+site desenvolvido para aprimorar meus conhecimentos na estrutura CRUD
